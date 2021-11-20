@@ -1,0 +1,30 @@
+body {
+    background-color: chartreuse;
+}
+
+ #score {
+    font-size:50;
+    margin-left:-1300px;
+ }
+
+ #timer {
+    font-size:50;
+    margin-right:200px;
+    float:right;
+ }
+
+ #Sketch_to_be_drawn {
+font-size: 25;
+color: red;
+ }
+
+ h1 {
+     background-color: khaki;
+     color: blue;
+     margin-left: 100px;
+ }
+button{
+    margin-left: 175px;
+    float: right;
+ 
+}
